@@ -1,0 +1,54 @@
+body {
+	 font-family: "gs_regular";
+    font-style: normal;
+    font-weight: normal;
+       background-repeat: no-repeat;
+} 
+
+#innerdiv{
+	background-color:#F7F7F7;
+	position:absolute;
+	width:396px;
+	height:150px;
+	margin-left:100px;
+	margin-top:152px;
+}
+
+.po{
+	padding-top:5px;
+}
+
+#user{
+	width:342px;
+	height:18px;
+	
+}
+#pass{
+	width:342px;
+	height:18px;
+	margin-top:11px
+}
+#capimg{
+		margin-top:3px;
+		margin-left:50px;
+}
+#cap{
+	width:342px;
+	height:18px;
+	margin-top:0px
+}
+#login{
+	position:absolute;
+	background-color:#51A4EB;
+	color:white;
+	width:80px;
+	height:35px;
+	margin-left:208px;
+	margin-top:30px;
+	border:0px;
+	
+}
+
+
+
+
